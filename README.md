@@ -25,4 +25,4 @@ El registro formal y la documentación conceptual de este proyecto se encuentran
 ---
 *Diseñado de forma independiente para devolverle la honestidad y la precisión al lenguaje de la inteligencia artificial.*
 
-![Esquema del Traductor Funcional](traductor-funcional.png)
+![Esquema del Traductor Funcional](traductor-funcional-3ervia.png)
