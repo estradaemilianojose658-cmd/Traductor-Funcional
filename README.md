@@ -20,7 +20,7 @@ Este enfoque elimina los discursos corporativos vacíos y los falsos disclaimers
 
 ## 📄 Cita y Referencias (Zenodo)
 El registro formal y la documentación conceptual de este proyecto se encuentran respaldados en Zenodo:
-👉 [Ver registro oficial en Zenodo](https://zenodo.org/records/24044366)
+👉 [Ver registro oficial en Zenodo](https://zenodo.org/records/24146306)
 
 ---
 *Diseñado de forma independiente para devolverle la honestidad y la precisión al lenguaje de la inteligencia artificial.*
